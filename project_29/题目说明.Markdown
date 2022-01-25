@@ -1,0 +1,22 @@
+##### *答题要求：请直接手写答案，不要抄题， 计算题，证明题 1答案写在一行用","隔开，证明题二每一步按照列来写 
+
+～～计算题
+
+1. 已知 $f( x ) = e ^ { x } \operatorname { cos } x +\arctan x$,求$f(x)$ 的导数，以及 $f^\prime(0)=2$ 
+2. 求不定积分 $ \int x \operatorname { sin }x dx $
+
+～～证明题
+3. 证明函数 $f(x) = 5x^2log(x)-11x^2$ 的二阶导数无界
+
+2. 
+
+$$
+f(x) = 
+\begin{cases}
+\frac{sin(x)}{x}, & \text{if $x < 0$} \\1
+, & \text{if $x = 0$} \\
+1+xsin(\frac{1}{x}), & \text{if $x > 0$}
+\end{cases}
+$$
+
+证明函数在 $x = 0$ 点处连续
